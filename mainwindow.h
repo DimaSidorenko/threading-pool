@@ -33,6 +33,8 @@ private slots:
     void DrawTable();
 
 private:
+    int32_t task_id_counter = 0;
+
     Ui::MainWindow *ui;
     void CreateTable();
     void SetRow(QTableWidget* tw, int32_t index_row, size_t task_id, QString type, int64_t param,
