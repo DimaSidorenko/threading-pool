@@ -1,2 +1,8 @@
 # threading-pool
- C++ thread-pool implementation with UI created using QTFramework
+
+Реализация пула потоков на C++ c графическим интерфейсом, реализованным с помощью фреймворка Qt.
+
+Зависимости:
+1) Компилятор С++ для Cmake C++11 и выше,
+2) Qt 5.12 и выше.
+
