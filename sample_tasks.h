@@ -39,7 +39,7 @@ std::string double_factorial(int64_t N) {
     }
 
     //printf("factorial_2 = %d\n", res);
-    std::this_thread::sleep_for(std::chrono::milliseconds(4000));
+    std::this_thread::sleep_for(std::chrono::milliseconds(2000));
 
     return std::to_string(res);
 }
