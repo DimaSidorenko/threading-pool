@@ -6,7 +6,7 @@
 1) Компилятор С++ для Cmake C++11 и выше,
 2) Qt 5.12 и выше.
 
-Пример интерфейса после успешной компиляции:
+![image](https://github.com/DimaSidorenko/threading-pool/blob/master/UI_small.jpg)
 
 
 
