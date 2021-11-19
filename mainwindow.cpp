@@ -8,8 +8,6 @@
 #include "sample_tasks.h"
 
 
-
-int32_t task_id_counter = 0;
 std::vector<TaskInfo> tasks;
 
 QMap<TaskType, QString> convert_task_type_to_string;
