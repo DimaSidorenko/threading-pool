@@ -7,7 +7,7 @@
 2) Создать папку в репозитории cmake-build
 3) Перейти в папку cmake-build
 4) Выполнить команду cmake ..
-6) Выполнить команду cmake build-- ..
+6) Выполнить команду cmake --build ..
 7) Запустить файл threading-pool в папке cmake-build
 
    ```shell
